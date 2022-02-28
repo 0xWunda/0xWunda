@@ -10,6 +10,6 @@
         <hr>
         <li>Python</li><li>C</li><li>C#</li>
         <hr>
-        ![Beezyboy's github stats](https://github-readme-stats.vercel.app/api?username=beezyboy&show_icons=true&theme=dark)
+        https://github-readme-stats.vercel.app/api?username=beezyboy&show_icons=true&theme=dark
     </body>
 </html>
