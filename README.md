@@ -13,7 +13,7 @@
         <li>C#</li>
         <hr>
         <h2>Codewars</h2>
-        ![image](https://www.codewars.com/users/0xWunda/badges/large)
+        <img src="https://www.codewars.com/users/0xWunda/badges/large">
         <hr>
     </body>
 </html>
