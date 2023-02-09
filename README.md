@@ -8,7 +8,12 @@
         <hr>
         <h2 style="color: aqua; text-align: center;" >My Langs</h2>
         <hr>
-        <li>Python</li><li>C</li><li>C#</li>
+        <li>Python</li>
+        <li>C</li>
+        <li>C#</li>
+        <hr>
+        <h2>Codewars</h2>
+        ![image](https://www.codewars.com/users/0xWunda/badges/large)
         <hr>
     </body>
 </html>
